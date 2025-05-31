@@ -294,7 +294,7 @@ async function main() {
     tags: false,
     align: 'center',
   });
-  channelPane2.setContent(' BOT LAYEREDGE ZONA AIRDROP ');
+  channelPane2.setContent(' LAYEREDGE Phase 3 (ZONA AIRDROP) ');
   screen.append(channelPane2);
 
   const infoPane = blessed.box({
