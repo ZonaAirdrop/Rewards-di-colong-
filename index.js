@@ -241,7 +241,7 @@ class LayerEdgeNode {
 async function main() {
   const screen = blessed.screen({
     smartCSR: true,
-    title: 'YetiDAO Node Runner',
+    title: 'ZonaAirdrop Node Runner',
   });
 
   const headerPane = blessed.box({
@@ -259,7 +259,7 @@ async function main() {
     const margin = Math.max(screen.width - 80, 0);
     let art = "";
     if (screen.width >= threshold) {
-      art = cfonts.render('YetiDAO', {
+      art = cfonts.render('ZonaAirdrop', {
         font: 'block',
         align: 'center',
         colors: ['cyan', 'magenta'],
@@ -270,7 +270,7 @@ async function main() {
         maxLength: screen.width - margin,
       }).string;
     } else {
-      art = cfonts.render('YetiDAO', {
+      art = cfonts.render('ZonaAirdrop', {
         font: 'tiny',
         align: 'center',
         colors: ['cyan', 'magenta'],
@@ -294,7 +294,7 @@ async function main() {
     tags: false,
     align: 'center',
   });
-  channelPane2.setContent('✪ BOT LAYEREDGE AUTO RUN NODE ✪');
+  channelPane2.setContent('✪ BOT LAYEREDGE ZONA AIRDROP ✪');
   screen.append(channelPane2);
 
   const infoPane = blessed.box({
