@@ -1,7 +1,7 @@
 {
-  "name": "YetiDAO - LayerEdge Auto Bot",
+  "name": "Rewards - Di Colong Bot",
   "version": "1.0.0",
-  "description": "LayerEdge Auto Run Node",
+  "description": "Rewards Di Colong",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
