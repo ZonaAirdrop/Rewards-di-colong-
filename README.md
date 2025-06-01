@@ -17,3 +17,10 @@ screen -S rewardsbot
 screen -r rewardsbot
 ````
 **🖥️ Start Installation**
+
+````
+pkg update && pkg install git nodejs -y
+git clone https://github.com/ZonaAirdrop/Rewards-di-colong-.git
+cd Rewards-di-colong-
+npm install
+````
