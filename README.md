@@ -30,3 +30,4 @@ If you want to use a proxy, add a list of proxies to the proxy.txt file with the
 ````
 http://username:password@proxyserver:port
 ````
+*🔖Create Folder key.txt `nano key.txt`
