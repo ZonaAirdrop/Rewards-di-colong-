@@ -24,3 +24,9 @@ git clone https://github.com/ZonaAirdrop/Rewards-di-colong-.git
 cd Rewards-di-colong-
 npm install
 ````
+*🔖Edit `proxy.txt` (Optional)
+If you want to use a proxy, add a list of proxies to the proxy.txt file with the format:*
+
+````
+http://username:password@proxyserver:port
+````
