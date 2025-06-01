@@ -44,4 +44,4 @@ eyh...
 node index.js
 ````
 
-*📝Notes: If you want maximum results, use VPS to be online 24 hours a day.
+*📝Notes: If you want maximum results, use VPS to be online 24 hours a day.*
