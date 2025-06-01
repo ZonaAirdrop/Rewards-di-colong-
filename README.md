@@ -1,10 +1,10 @@
 # WE HAVE DELIBERATELY DISGUISED THE NAME 
 
-** 📝 feature 
+📝 feature 
 - Support VPS & Termux
 - For VPS Use Screen
 
-** 🔖 Create Screen 
+🔖 Create Screen 
 
 ````
 screen -S rewardsbot
@@ -16,3 +16,4 @@ screen -S rewardsbot
 ````
 screen -r rewardsbot
 ````
+🖥️ Start
