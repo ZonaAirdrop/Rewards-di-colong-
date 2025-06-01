@@ -38,3 +38,10 @@ http://username:password@proxyserver:port
 example eyj...
 eyh...
 ````
+*Running Bot*
+
+````
+node index.js
+````
+
+*📝Notes: If you want maximum results, use VPS to be online 24 hours a day.
