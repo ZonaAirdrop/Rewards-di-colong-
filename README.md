@@ -16,4 +16,4 @@ screen -S rewardsbot
 ````
 screen -r rewardsbot
 ````
-**🖥️ Start Installation*
+**🖥️ Start Installation**
