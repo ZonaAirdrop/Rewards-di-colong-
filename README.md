@@ -45,3 +45,12 @@ node index.js
 ````
 
 *📝Notes: If you want maximum results, use VPS to be online 24 hours a day.*
+
+*LayerEdge Phase III Live*
+
+https://dashboard.layeredge.io/
+- Connect wallet (New Wallet)
+- Code RZZwDoHy
+
+*Join Channel For Update (Optional)*
+https://t.me/ZonaAirdr0p
