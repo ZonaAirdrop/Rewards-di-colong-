@@ -1,4 +1,4 @@
-# WE HAVE DELIBERATELY DISGUISED THE NAME 
+# skip project scam 
 
 📝 feature 
 - Support VPS & Termux
